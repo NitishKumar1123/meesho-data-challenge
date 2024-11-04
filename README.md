@@ -1,4 +1,5 @@
 # E-commerce Product Attribute Prediction
+![image](https://github.com/user-attachments/assets/7831b6e0-2529-4fa8-ba14-795b1c50104d)
 
 This project aims to predict multiple attributes of e-commerce products from images using a hybrid CNN-RNN model. The system enhances product listings by automatically generating attributes for each item, optimizing for varying categories and attribute numbers. This model is particularly useful for e-commerce platforms to improve product categorization and search experience.
 
