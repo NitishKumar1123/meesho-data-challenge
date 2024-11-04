@@ -2,16 +2,16 @@
 This project aims to predict multiple attributes of e-commerce products from images using a hybrid CNN-RNN model. The system enhances product listings by automatically generating attributes for each item, optimizing for varying categories and attribute numbers. This model is particularly useful for e-commerce platforms to improve product categorization and search experience.
 
 # Table of Contents
-Project Overview
-Dataset
-Model Architecture
-Installation
-Usage
-Training and Evaluation
-Submission File Generation
-Customization
-Results and Analysis
-Acknowledgments
+1.Project Overview
+2.Dataset
+3.Model Architecture
+4.Installation
+5.Usage
+6.Training and Evaluation
+7.Submission File Generation
+8.Customization
+9.Results and Analysis
+10.Acknowledgments
 # Project Overview
 The model predicts 10 attributes for each product, even for categories that require fewer than 10 attributes. For categories with fewer attributes, the model fills unused attributes with a placeholder ("dummy_value"), based on the number of attributes needed for each category.
 
